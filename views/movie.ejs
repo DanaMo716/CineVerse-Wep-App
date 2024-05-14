@@ -1,0 +1,35 @@
+<body>
+    <div class="container">
+        <h1>
+            <%= title %>
+        </h1>
+        <p><a class="btn btn-outline-light me-2" href="/dashboard">Back</a></p>
+        <div class="row">
+            <div class="card">
+                <img src="<%= thumbnailImage %>" style="height: 300px">
+                <div>
+                    <p class="card-text"><strong>Director: </strong>
+                        <%= director %>
+                    </p>
+                    <p class="card-text"><strong>Genre: </strong>
+                        <%= genre %>
+                    </p>
+                    <p class="card-text"><strong>Year released: </strong>
+                        <%= releaseYear %>
+                    </p>
+                    <p class="card-text"><strong>Review: <% for(var i=0; i < rating; i++){ %>
+                <img src="/images/star.png" style="height: 20px;">
+              <% } %> </strong></p>
+
+
+
+                    <p class="card-text">
+                        <%= review %>
+                    </p>
+
+                    <p><br></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
