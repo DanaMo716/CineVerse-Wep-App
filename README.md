@@ -1,3 +1,5 @@
+<img src="https://github.com/DanaMo716/CineVerse-Wep-App/assets/118277115/74e825ae-e51a-414d-9715-358b0b96ebd1" width="200" height="200" />
+
 # CineVerse Movie Reviews App
 
 Welcome to CineVerse, a web application for movie enthusiasts to review and discover movies! CineVerse is built using Node.js, Express, MongoDB, Bootstrap, Passport, and Google authentication.
@@ -25,12 +27,12 @@ Welcome to CineVerse, a web application for movie enthusiasts to review and disc
 
 ## Getting Started
 **To get started with CineVerse, follow these steps:**
-- Clone the repository to your local machine.
-- Install dependencies using npm install.
-- Set up a MongoDB instance and configure the connection.
-- Obtain Google OAuth 2.0 credentials and configure them in the application.
-- Run the application using npm start.
-- Access the application in your web browser at the specified address.
+1. Clone the repository to your local machine.
+2. Install dependencies using npm install.
+3. Set up a MongoDB instance and configure the connection.
+4. Obtain Google OAuth 2.0 credentials and configure them in the application.
+5. Run the application using npm start.
+6. Access the application in your web browser at the specified address.
 
 ## Usage
 **Once the application is running, users can:**
@@ -40,6 +42,27 @@ Welcome to CineVerse, a web application for movie enthusiasts to review and disc
 - Add moive and reviews for movies
 - Remove movies that are not wanted.
 - Utilize the random movie picker feature for movie suggestions.
+
+## Flow chart
+
+![flowchart](https://github.com/DanaMo716/CineVerse-Wep-App/assets/118277115/64ae6915-48ab-4a22-a683-2efc9ca6823f)
+
+
+# Quick look to our CineVerse website
+## Home Page
+
+
+![homePage](https://github.com/DanaMo716/CineVerse-Wep-App/assets/118277115/85bfbb69-f31b-4d10-b34a-7b775a099d99)
+
+
+
+## Dashboard
+<img width="700" alt="dashboard" src="https://github.com/DanaMo716/CineVerse-Wep-App/assets/118277115/e97fdfde-5ba5-4bf4-9694-60b2497eec6a">
+
+
+## Random Movie Picker
+![Random](https://github.com/DanaMo716/CineVerse-Wep-App/assets/118277115/d600d814-a363-4d4e-98af-0cd8e9451563)
+
 
 
 
