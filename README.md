@@ -25,6 +25,14 @@ Welcome to CineVerse, a web application for movie enthusiasts to review and disc
 - **Google Auth**: OAuth 2.0 authentication provided by Google, allowing users to securely sign in with their Google accounts.
 
 
+## Goals 
+- **Personal Movie Library:** Enable users to create and manage their own movie libraries, where they can keep track of movies they have watched and want to watch.
+- **Support for Movie Influencers:** Provide features that help movie influencers share, and promote their content, build their audience, and engage with their followers.
+- **Movie Recommendation Sharing:** Help movie lovers save and organize the movies they have watched so they can easily recommend their favorite films to others.
+
+
+
+
 ## Getting Started
 **To get started with CineVerse, follow these steps:**
 1. Clone the repository to your local machine.
@@ -64,6 +72,18 @@ Welcome to CineVerse, a web application for movie enthusiasts to review and disc
 ![Random](https://github.com/DanaMo716/CineVerse-Wep-App/assets/118277115/d600d814-a363-4d4e-98af-0cd8e9451563)
 
 
+## Future Work
+- **Mobile Application Development:** Develop native mobile applications for both iOS and Android platforms to improve accessibility and user experience on mobile devices.
+- **Community Features:** Introduce community features such as discussion forums, group watch events, and movie clubs to enhance social interaction among users.
+- **Advanced Search and Filtering:** Improve search functionality with more advanced filtering options, such as filtering by director, actor, release year, and more.
+- **Review Sharing:** Enable users to share their movie reviews on other platforms, including social media and email, to increase visibility and engagement.
+- **Database Improvement for Random Movie Picker:** Enhance the Random Movie Picker feature to ensure it only suggests movies that the user has not yet watched, providing a more tailored and relevant movie-watching experience.
+
+
+## Resources
+- [Bootstrap](https://getbootstrap.com/)
+- [Google fonts and icons](https://fonts.google.com/icons)
+  
 
 
 ## Contributors
