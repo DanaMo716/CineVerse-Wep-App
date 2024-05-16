@@ -71,6 +71,9 @@ Welcome to CineVerse, a web application for movie enthusiasts to review and disc
 ## Random Movie Picker
 ![Random](https://github.com/DanaMo716/CineVerse-Wep-App/assets/118277115/d600d814-a363-4d4e-98af-0cd8e9451563)
 
+## Demo for our website
+
+- [Demo Videos](https://vimeo.com/947141529)
 
 ## Future Work
 - **Mobile Application Development:** Develop native mobile applications for both iOS and Android platforms to improve accessibility and user experience on mobile devices.
@@ -83,6 +86,9 @@ Welcome to CineVerse, a web application for movie enthusiasts to review and disc
 ## Resources
 - [Bootstrap](https://getbootstrap.com/)
 - [Google fonts and icons](https://fonts.google.com/icons)
+- [Storyset](https://storyset.com/)
+- [Imdb](https://www.imdb.com/)
+  
   
 
 
