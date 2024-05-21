@@ -73,7 +73,8 @@ Welcome to CineVerse, a web application for movie enthusiasts to review and disc
 
 ## Demo for our website
 
-- [Demo Videos](https://vimeo.com/947141529)
+- [Demo Videos]([https://vimeo.com/947141529](https://www.canva.com/design/DAGEwNOZszo/gjLqVBuI8-XsIKiTJYJQYA/view?utm_content=DAGEwNOZszo&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- 
 
 ## Future Work
 - **Mobile Application Development:** Develop native mobile applications for both iOS and Android platforms to improve accessibility and user experience on mobile devices.
