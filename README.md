@@ -88,7 +88,8 @@ Welcome to CineVerse, a web application for movie enthusiasts to review and disc
 - [Bootstrap](https://getbootstrap.com/)
 - [Google fonts and icons](https://fonts.google.com/icons)
 - [Storyset](https://storyset.com/)
-- [Imdb](https://www.imdb.com/)
+- [IMDb](https://www.imdb.com/)
+- [Drawio](https://www.drawio.com/)
 
   
   
