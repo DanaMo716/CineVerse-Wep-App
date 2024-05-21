@@ -73,7 +73,7 @@ Welcome to CineVerse, a web application for movie enthusiasts to review and disc
 
 ## Demo for our website
 
-- [Demo Videos]([https://www.canva.com/design/DAGEwNOZszo/gjLqVBuI8-XsIKiTJYJQYA/view?utm_content=DAGEwNOZszo&utm_campaign=designshare&utm_medium=link&utm_source=editor])
+- [Demo](https://www.canva.com/design/DAGEwNOZszo/gjLqVBuI8-XsIKiTJYJQYA/view?utm_content=DAGEwNOZszo&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 
 ## Future Work
